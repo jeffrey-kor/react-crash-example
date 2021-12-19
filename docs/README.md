@@ -7,7 +7,7 @@
 ---
 
 [What is the React?]()
-[JSX]()
+[JSX](https://ko.reactjs.org/docs/introducing-jsx.html)
 [Rendering Elements]()
 [Component and props]()
 [State and life cycle]()
@@ -47,3 +47,25 @@
 #### Testing
 
 #### Hooks
+
+#### React with typescript
+
+#### Deployment
+
+#### Continuous integration & Continuous Deployment
+
+#### Books
+[Clean code]()
+[Learning React]()
+[React Up & Running]()
+[The Road to React]()
+[The Road to GraphQL]()
+[Isomorphic JavaScript Web Development]()
+[React.js Complete Guide To Server-Side Rendering]()
+[Learn React Hooks - Build and refactor modern React.js applications using Hooks]()
+
+#### Lectures
+[]()
+[]()
+[]()
+
