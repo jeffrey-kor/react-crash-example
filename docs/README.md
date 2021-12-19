@@ -8,7 +8,7 @@
 
 [What is the React?]()
 [JSX](https://ko.reactjs.org/docs/introducing-jsx.html)
-[Rendering Elements]()
+[Rendering Elements](https://ko.reactjs.org/docs/rendering-elements.html)
 [Component and props]()
 [State and life cycle]()
 [Event handling]()
@@ -63,6 +63,9 @@
 [Isomorphic JavaScript Web Development]()
 [React.js Complete Guide To Server-Side Rendering]()
 [Learn React Hooks - Build and refactor modern React.js applications using Hooks]()
+[Effective Typescript]()
+[Programming Typescript]()
+[React with Typescript3]()
 
 #### Lectures
 []()
